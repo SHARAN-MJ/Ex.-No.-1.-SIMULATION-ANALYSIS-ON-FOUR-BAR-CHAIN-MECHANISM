@@ -59,8 +59,8 @@
 
 ![Screenshot 2023-06-14 212534](https://github.com/SHARAN-MJ/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119560305/0a6b4877-b484-4b38-8309-4e5f30e35d1e)
 
-### Name:
-### Register Number: 
+### Name: SHARAN MJ
+### Register Number: 212222240097
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
