@@ -53,7 +53,11 @@
 
 
 ## Output:
+![Screenshot 2023-06-14 212519](https://github.com/SHARAN-MJ/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119560305/67817fb4-5adf-453b-aef1-95aa96dae32c)
 
+### Velocity diagram and Acceleration diagram:
+
+![Screenshot 2023-06-14 212534](https://github.com/SHARAN-MJ/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119560305/0a6b4877-b484-4b38-8309-4e5f30e35d1e)
 
 ### Name:
 ### Register Number: 
